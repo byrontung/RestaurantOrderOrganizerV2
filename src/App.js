@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { FrontPage } from '../components/FrontPage/FrontPage';
+import { FrontPage } from './components/FrontPage/FrontPage';
 
 function App() {
   return (
